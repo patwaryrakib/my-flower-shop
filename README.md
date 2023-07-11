@@ -1,1 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section1>
+<div class="container1">
+<div class="container2">
+    <h1><b>Let,s make<br>beautiful flowers<br>a part of your life</b></h1>
+    <p class="paragraph1">It is a long established fact that a reader will be distracted by the readable<br>content of a page when looking at its layout. The point of using Lorem Ipsum is<br>that it has a more-or-less normal distribution of letters.</p>
+    <button class="button1">Shop now</button>
+</div>
+<div class="container3"><img class="pangwing6" src="./flower-shop-assignment/Flower Asset/pngwing 10.png" alt=""></div>
+</div>
+</section1>
 
+<section2>
+ <div class="container4"><h1 class="h1-2"><b>Our Featured Flowers</b></h1>
+<p>It is a long established fact that a reader will be distracted by the readable <br>
+content of a page when looking at its layout.</p></div>   
+</section2>
+
+<section3>
+<div class="container5">
+<div class="container6"><img class="img2" src="./flower-shop-assignment/Flower Asset/pngwing 6.png" alt=""><div class="des1"><hr>Pink flower tree<hr>
+</div>
+</div>
+<div class="container7"><img class="img3" src="./flower-shop-assignment/Flower Asset/pngwing 5.png" alt=""><div class="des2"><hr>Pink flower tree<hr>
+</div>
+</div>
+<div class="container8"><img class="img4" src="./flower-shop-assignment/Flower Asset/pngwing 7.png" alt=""><div class="des3"><hr>Pink flower tree<hr>
+</div>
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+</section3>
+<section4>
+<div class="container9">
+<div class="container10"> <img class="img5" src="./flower-shop-assignment/Flower Asset/Group 57.png" alt=""><div class="description"><b>Same day .click & collec</b>t</div></div>
+<div class="container11"> <img class="img6" src="./flower-shop-assignment/Flower Asset/Group 58.png" alt=""><div class="description"></div><b>Fresh Flowers . Local Growers.</b></div>
+<div class="container12"> <img class="img7" src="./flower-shop-assignment/Flower Asset/Group 59.png" alt=""><div class="description"></div><b>24/7 Free Support.</b></div>
+</div>
+
+
+
+
+
+</section4>
+<section5>
+<div class="container13">
+<div class="container14"><h1>Hot Deal ! Sale Up To 25% <span style="color: brown;">Off</span></h1>
+<p>It is a long established fact that a reader will be distracted by <br>
+    the readable content of a page when looking at its layout.</p>
+<button class="button2">sign up</button></div>
+<div class="container15"> <img class="img8" src="./flower-shop-assignment/Flower Asset/pngwing 8.png" alt=""></div>
+</div>
+
+
+
+
+
+
+
+
+</section5>
+<section6>
+<div class="container16"><h1><b>Instagram</b></h1>
+<p>It is a long established fact that a reader will be distractedbr <br>
+    by the readable content of a page when looking at its layout.</p></div>
+
+    <div class="container17"><img class="img1" src="./flower-shop-assignment/Flower Asset/Flower 01.png" alt="">
+        <img class="img2" src="./flower-shop-assignment/Flower Asset/Rectangle 4.png" alt="">
+         <img class="img3" src="./flower-shop-assignment/Flower Asset/Rectangle 5.png" alt="">
+         <img class="img4" src="./flower-shop-assignment/Flower Asset/Rectangle 6.png" alt="">
+    </div>
+
+
+
+</section6>
+<section7>
+    <div class="container18"><img class="imggg" src="./flower-shop-assignment/Flower Asset/Rectangle 9.png" alt="">
+        <div class="text"><h1>Get The Latest Deals</h1>
+        <p>$30 coupon for first shopping</p></div>
+        <div class="container19">
+            <input type="email" name="Email" id="email" placeholder="Enter your email here">
+            <button class="b">Subscribe</button>
+        </div>
+        
+        
+        </div>
+
+
+
+
+</section7>
+<section8>
+<div class="container20">
+    <h1><b><span style="color: #e55473;">Flower</span>Shop</b></h1>
+    <p>It is a long established fact that a reader will be distracted by the readablebr <br>
+     content of a page when looking at its layout.</p>
+    <footer>@2020-2023, FlowerShop.com.All rights reserved.</footer>
+</div>
+
+
+
+
+
+
+</section8>
+</body>
+</html>
